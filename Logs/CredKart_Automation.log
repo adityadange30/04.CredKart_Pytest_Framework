@@ -1,0 +1,378 @@
+2025-06-19 00:39:11,120 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:39:11,120 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:39:11,120 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:39:11,121 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:39:11,121 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:39:11,121 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:39:11,954 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:39:11,954 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:39:11,954 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:39:11,955 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:39:11,955 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:39:11,955 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:40:29,480 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:40:29,480 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:40:29,480 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:40:29,509 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:40:29,509 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:40:29,509 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:40:29,820 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:40:29,820 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:40:29,820 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:40:29,820 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:40:29,820 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:40:29,820 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:40:38,617 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:40:38,617 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:40:38,617 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:40:47,008 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:40:47,008 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:40:47,008 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:40:48,097 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:40:48,097 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:40:48,097 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:41:07,976 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:07,976 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:07,976 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:08,639 - INFO - test_CredKart_Login_Excel_003  - 39 - User logged in successfully
+2025-06-19 00:41:08,639 - INFO - test_CredKart_Login_Excel_003  - 39 - User logged in successfully
+2025-06-19 00:41:08,639 - INFO - test_CredKart_Login_Excel_003  - 39 - User logged in successfully
+2025-06-19 00:41:08,640 - INFO - test_CredKart_Login_Excel_003  - 40 - Writing result to excel file
+2025-06-19 00:41:08,640 - INFO - test_CredKart_Login_Excel_003  - 40 - Writing result to excel file
+2025-06-19 00:41:08,640 - INFO - test_CredKart_Login_Excel_003  - 40 - Writing result to excel file
+2025-06-19 00:41:10,234 - INFO - test_CredKart_Login_Excel_003  - 42 - Taking screenshot
+2025-06-19 00:41:10,234 - INFO - test_CredKart_Login_Excel_003  - 42 - Taking screenshot
+2025-06-19 00:41:10,234 - INFO - test_CredKart_Login_Excel_003  - 42 - Taking screenshot
+2025-06-19 00:41:11,761 - INFO - test_CredKart_Login_Excel_003  - 44 - Clicking on menu button
+2025-06-19 00:41:11,761 - INFO - test_CredKart_Login_Excel_003  - 44 - Clicking on menu button
+2025-06-19 00:41:11,761 - INFO - test_CredKart_Login_Excel_003  - 44 - Clicking on menu button
+2025-06-19 00:41:12,014 - INFO - test_CredKart_Login_Excel_003  - 46 - Clicking on logout link
+2025-06-19 00:41:12,014 - INFO - test_CredKart_Login_Excel_003  - 46 - Clicking on logout link
+2025-06-19 00:41:12,014 - INFO - test_CredKart_Login_Excel_003  - 46 - Clicking on logout link
+2025-06-19 00:41:13,820 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:13,820 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:13,820 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:13,821 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:41:13,821 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:41:13,821 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:41:13,821 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:41:13,821 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:41:13,821 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:41:16,467 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.ina
+2025-06-19 00:41:16,467 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.ina
+2025-06-19 00:41:16,467 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.ina
+2025-06-19 00:41:16,596 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:41:16,596 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:41:16,596 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:41:16,699 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:41:16,699 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:41:16,699 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:41:17,935 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:17,935 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:17,935 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:22,042 - INFO - test_CredKart_Login_Excel_003  - 50 - User not logged in
+2025-06-19 00:41:22,042 - INFO - test_CredKart_Login_Excel_003  - 50 - User not logged in
+2025-06-19 00:41:22,042 - INFO - test_CredKart_Login_Excel_003  - 50 - User not logged in
+2025-06-19 00:41:22,042 - INFO - test_CredKart_Login_Excel_003  - 51 - Writing result to excel file
+2025-06-19 00:41:22,042 - INFO - test_CredKart_Login_Excel_003  - 51 - Writing result to excel file
+2025-06-19 00:41:22,042 - INFO - test_CredKart_Login_Excel_003  - 51 - Writing result to excel file
+2025-06-19 00:41:22,688 - INFO - test_CredKart_Login_Excel_003  - 53 - Taking screenshot
+2025-06-19 00:41:22,688 - INFO - test_CredKart_Login_Excel_003  - 53 - Taking screenshot
+2025-06-19 00:41:22,688 - INFO - test_CredKart_Login_Excel_003  - 53 - Taking screenshot
+2025-06-19 00:41:23,453 - INFO - test_CredKart_Login_Excel_003  - 63 - Writing result to excel file
+2025-06-19 00:41:23,453 - INFO - test_CredKart_Login_Excel_003  - 63 - Writing result to excel file
+2025-06-19 00:41:23,453 - INFO - test_CredKart_Login_Excel_003  - 63 - Writing result to excel file
+2025-06-19 00:41:26,041 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:26,041 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:26,041 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:26,041 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:41:26,041 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:41:26,041 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:41:26,042 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:41:26,042 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:41:26,042 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:41:26,562 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:41:26,562 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:41:26,562 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:41:26,776 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123a
+2025-06-19 00:41:26,776 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123a
+2025-06-19 00:41:26,776 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123a
+2025-06-19 00:41:26,913 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:41:26,913 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:41:26,913 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:41:27,767 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:27,767 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:27,767 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:31,882 - INFO - test_CredKart_Login_Excel_003  - 50 - User not logged in
+2025-06-19 00:41:31,882 - INFO - test_CredKart_Login_Excel_003  - 50 - User not logged in
+2025-06-19 00:41:31,882 - INFO - test_CredKart_Login_Excel_003  - 50 - User not logged in
+2025-06-19 00:41:31,882 - INFO - test_CredKart_Login_Excel_003  - 51 - Writing result to excel file
+2025-06-19 00:41:31,882 - INFO - test_CredKart_Login_Excel_003  - 51 - Writing result to excel file
+2025-06-19 00:41:31,882 - INFO - test_CredKart_Login_Excel_003  - 51 - Writing result to excel file
+2025-06-19 00:41:31,975 - INFO - test_CredKart_Login_Excel_003  - 53 - Taking screenshot
+2025-06-19 00:41:31,975 - INFO - test_CredKart_Login_Excel_003  - 53 - Taking screenshot
+2025-06-19 00:41:31,975 - INFO - test_CredKart_Login_Excel_003  - 53 - Taking screenshot
+2025-06-19 00:41:32,086 - INFO - test_CredKart_Login_Excel_003  - 63 - Writing result to excel file
+2025-06-19 00:41:32,086 - INFO - test_CredKart_Login_Excel_003  - 63 - Writing result to excel file
+2025-06-19 00:41:32,086 - INFO - test_CredKart_Login_Excel_003  - 63 - Writing result to excel file
+2025-06-19 00:41:32,585 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:32,585 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:32,585 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:32,586 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:41:32,586 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:41:32,586 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:41:32,586 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:41:32,586 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:41:32,586 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:41:33,021 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.ina
+2025-06-19 00:41:33,021 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.ina
+2025-06-19 00:41:33,021 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.ina
+2025-06-19 00:41:33,177 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123a
+2025-06-19 00:41:33,177 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123a
+2025-06-19 00:41:33,177 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123a
+2025-06-19 00:41:33,292 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:41:33,292 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:41:33,292 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:41:33,410 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:33,410 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:33,410 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:41:37,751 - INFO - test_CredKart_Login_Excel_003  - 50 - User not logged in
+2025-06-19 00:41:37,751 - INFO - test_CredKart_Login_Excel_003  - 50 - User not logged in
+2025-06-19 00:41:37,751 - INFO - test_CredKart_Login_Excel_003  - 50 - User not logged in
+2025-06-19 00:41:37,752 - INFO - test_CredKart_Login_Excel_003  - 51 - Writing result to excel file
+2025-06-19 00:41:37,752 - INFO - test_CredKart_Login_Excel_003  - 51 - Writing result to excel file
+2025-06-19 00:41:37,752 - INFO - test_CredKart_Login_Excel_003  - 51 - Writing result to excel file
+2025-06-19 00:41:37,839 - INFO - test_CredKart_Login_Excel_003  - 53 - Taking screenshot
+2025-06-19 00:41:37,839 - INFO - test_CredKart_Login_Excel_003  - 53 - Taking screenshot
+2025-06-19 00:41:37,839 - INFO - test_CredKart_Login_Excel_003  - 53 - Taking screenshot
+2025-06-19 00:41:37,945 - INFO - test_CredKart_Login_Excel_003  - 63 - Writing result to excel file
+2025-06-19 00:41:37,945 - INFO - test_CredKart_Login_Excel_003  - 63 - Writing result to excel file
+2025-06-19 00:41:37,945 - INFO - test_CredKart_Login_Excel_003  - 63 - Writing result to excel file
+2025-06-19 00:41:38,016 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:38,016 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:38,016 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:41:38,016 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:41:38,016 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:41:38,016 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:45:03,511 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:45:03,511 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:45:03,511 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:45:03,559 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:45:03,559 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:45:03,559 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:45:03,571 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:45:03,571 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:45:03,571 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:45:03,572 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:45:03,572 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:45:03,572 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:45:08,012 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:45:08,012 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:45:08,012 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:45:09,162 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:45:09,162 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:45:09,162 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:45:09,297 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:45:09,297 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:45:09,297 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:45:12,039 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:45:12,039 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:45:12,039 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:45:12,078 - INFO - test_CredKart_Login_Excel_003  - 39 - User logged in successfully
+2025-06-19 00:45:12,078 - INFO - test_CredKart_Login_Excel_003  - 39 - User logged in successfully
+2025-06-19 00:45:12,078 - INFO - test_CredKart_Login_Excel_003  - 39 - User logged in successfully
+2025-06-19 00:45:12,078 - INFO - test_CredKart_Login_Excel_003  - 40 - Writing result to excel file
+2025-06-19 00:45:12,078 - INFO - test_CredKart_Login_Excel_003  - 40 - Writing result to excel file
+2025-06-19 00:45:12,078 - INFO - test_CredKart_Login_Excel_003  - 40 - Writing result to excel file
+2025-06-19 00:45:57,940 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:45:57,940 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:45:57,940 - INFO - test_CredKart_Login_Excel_003  - 19 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:45:57,941 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:45:57,941 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:45:57,941 - INFO - test_CredKart_Login_Excel_003  - 21 - Reading the data from excel file
+2025-06-19 00:45:58,114 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:45:58,114 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:45:58,114 - INFO - test_CredKart_Login_Excel_003  - 23 - Number of rows in excel file is: 5
+2025-06-19 00:45:58,114 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:45:58,114 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:45:58,114 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:46:03,871 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:46:03,871 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:46:03,871 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.in
+2025-06-19 00:46:04,080 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:46:04,080 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:46:04,080 - INFO - test_CredKart_Login_Excel_003  - 33 - Entering password--Credence@123
+2025-06-19 00:46:04,217 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:46:04,217 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:46:04,217 - INFO - test_CredKart_Login_Excel_003  - 35 - Clicking on login button
+2025-06-19 00:46:04,334 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:46:04,334 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:46:04,334 - INFO - test_CredKart_Login_Excel_003  - 37 - Verifying user login
+2025-06-19 00:46:08,217 - INFO - test_CredKart_Login_Excel_003  - 39 - User logged in successfully
+2025-06-19 00:46:08,217 - INFO - test_CredKart_Login_Excel_003  - 39 - User logged in successfully
+2025-06-19 00:46:08,217 - INFO - test_CredKart_Login_Excel_003  - 39 - User logged in successfully
+2025-06-19 00:46:08,222 - INFO - test_CredKart_Login_Excel_003  - 40 - Writing result to excel file
+2025-06-19 00:46:08,222 - INFO - test_CredKart_Login_Excel_003  - 40 - Writing result to excel file
+2025-06-19 00:46:08,222 - INFO - test_CredKart_Login_Excel_003  - 40 - Writing result to excel file
+2025-06-19 00:46:09,326 - INFO - test_CredKart_Login_Excel_003  - 42 - Taking screenshot
+2025-06-19 00:46:09,326 - INFO - test_CredKart_Login_Excel_003  - 42 - Taking screenshot
+2025-06-19 00:46:09,326 - INFO - test_CredKart_Login_Excel_003  - 42 - Taking screenshot
+2025-06-19 00:46:09,820 - INFO - test_CredKart_Login_Excel_003  - 44 - Clicking on menu button
+2025-06-19 00:46:09,820 - INFO - test_CredKart_Login_Excel_003  - 44 - Clicking on menu button
+2025-06-19 00:46:09,820 - INFO - test_CredKart_Login_Excel_003  - 44 - Clicking on menu button
+2025-06-19 00:46:09,964 - INFO - test_CredKart_Login_Excel_003  - 46 - Clicking on logout link
+2025-06-19 00:46:09,964 - INFO - test_CredKart_Login_Excel_003  - 46 - Clicking on logout link
+2025-06-19 00:46:09,964 - INFO - test_CredKart_Login_Excel_003  - 46 - Clicking on logout link
+2025-06-19 00:46:10,094 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:46:10,094 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:46:10,094 - INFO - test_CredKart_Login_Excel_003  - 69 - All the test cases passed
+2025-06-19 00:46:10,094 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:46:10,094 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:46:10,094 - INFO - test_CredKart_Login_Excel_003  - 75 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:46:10,094 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:46:10,094 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:46:10,094 - INFO - test_CredKart_Login_Excel_003  - 26 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:46:11,799 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.ina
+2025-06-19 00:46:11,799 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.ina
+2025-06-19 00:46:11,799 - INFO - test_CredKart_Login_Excel_003  - 31 - Entering email--credencejune01@credence.ina
+2025-06-19 00:51:17,529 - INFO - test_CredKart_Login_Excel_003  - 18 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:51:17,529 - INFO - test_CredKart_Login_Excel_003  - 18 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:51:17,529 - INFO - test_CredKart_Login_Excel_003  - 18 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:51:17,666 - INFO - test_CredKart_Login_Excel_003  - 20 - Reading the data from excel file
+2025-06-19 00:51:17,666 - INFO - test_CredKart_Login_Excel_003  - 20 - Reading the data from excel file
+2025-06-19 00:51:17,666 - INFO - test_CredKart_Login_Excel_003  - 20 - Reading the data from excel file
+2025-06-19 00:51:18,730 - INFO - test_CredKart_Login_Excel_003  - 22 - Number of rows in excel file is: 5
+2025-06-19 00:51:18,730 - INFO - test_CredKart_Login_Excel_003  - 22 - Number of rows in excel file is: 5
+2025-06-19 00:51:18,730 - INFO - test_CredKart_Login_Excel_003  - 22 - Number of rows in excel file is: 5
+2025-06-19 00:51:18,730 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:51:18,730 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:51:18,730 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:52:38,517 - INFO - test_CredKart_Login_Excel_003  - 18 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:52:38,517 - INFO - test_CredKart_Login_Excel_003  - 18 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:52:38,517 - INFO - test_CredKart_Login_Excel_003  - 18 - Testcase test_CredKart_Login_Excel_003 is started
+2025-06-19 00:52:38,518 - INFO - test_CredKart_Login_Excel_003  - 20 - Reading the data from excel file
+2025-06-19 00:52:38,518 - INFO - test_CredKart_Login_Excel_003  - 20 - Reading the data from excel file
+2025-06-19 00:52:38,518 - INFO - test_CredKart_Login_Excel_003  - 20 - Reading the data from excel file
+2025-06-19 00:52:38,595 - INFO - test_CredKart_Login_Excel_003  - 22 - Number of rows in excel file is: 5
+2025-06-19 00:52:38,595 - INFO - test_CredKart_Login_Excel_003  - 22 - Number of rows in excel file is: 5
+2025-06-19 00:52:38,595 - INFO - test_CredKart_Login_Excel_003  - 22 - Number of rows in excel file is: 5
+2025-06-19 00:52:38,596 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:52:38,596 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:52:38,596 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:52:46,498 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.in
+2025-06-19 00:52:46,498 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.in
+2025-06-19 00:52:46,498 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.in
+2025-06-19 00:52:48,184 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123
+2025-06-19 00:52:48,184 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123
+2025-06-19 00:52:48,184 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123
+2025-06-19 00:52:48,324 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:52:48,324 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:52:48,324 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:52:52,330 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:52:52,330 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:52:52,330 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:52:52,353 - INFO - test_CredKart_Login_Excel_003  - 38 - User logged in successfully
+2025-06-19 00:52:52,353 - INFO - test_CredKart_Login_Excel_003  - 38 - User logged in successfully
+2025-06-19 00:52:52,353 - INFO - test_CredKart_Login_Excel_003  - 38 - User logged in successfully
+2025-06-19 00:52:52,354 - INFO - test_CredKart_Login_Excel_003  - 39 - Writing result to excel file
+2025-06-19 00:52:52,354 - INFO - test_CredKart_Login_Excel_003  - 39 - Writing result to excel file
+2025-06-19 00:52:52,354 - INFO - test_CredKart_Login_Excel_003  - 39 - Writing result to excel file
+2025-06-19 00:52:52,456 - INFO - test_CredKart_Login_Excel_003  - 41 - Taking screenshot
+2025-06-19 00:52:52,456 - INFO - test_CredKart_Login_Excel_003  - 41 - Taking screenshot
+2025-06-19 00:52:52,456 - INFO - test_CredKart_Login_Excel_003  - 41 - Taking screenshot
+2025-06-19 00:52:52,936 - INFO - test_CredKart_Login_Excel_003  - 43 - Clicking on menu button
+2025-06-19 00:52:52,936 - INFO - test_CredKart_Login_Excel_003  - 43 - Clicking on menu button
+2025-06-19 00:52:52,936 - INFO - test_CredKart_Login_Excel_003  - 43 - Clicking on menu button
+2025-06-19 00:52:53,194 - INFO - test_CredKart_Login_Excel_003  - 45 - Clicking on logout link
+2025-06-19 00:52:53,194 - INFO - test_CredKart_Login_Excel_003  - 45 - Clicking on logout link
+2025-06-19 00:52:53,194 - INFO - test_CredKart_Login_Excel_003  - 45 - Clicking on logout link
+2025-06-19 00:52:57,434 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:52:57,434 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:52:57,434 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:53:02,973 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:53:02,973 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:53:02,973 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:53:03,733 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.ina
+2025-06-19 00:53:03,733 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.ina
+2025-06-19 00:53:03,733 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.ina
+2025-06-19 00:53:03,896 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123
+2025-06-19 00:53:03,896 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123
+2025-06-19 00:53:03,896 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123
+2025-06-19 00:53:04,001 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:53:04,001 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:53:04,001 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:53:04,941 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:53:04,941 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:53:04,941 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:53:09,296 - INFO - test_CredKart_Login_Excel_003  - 49 - User not logged in
+2025-06-19 00:53:09,296 - INFO - test_CredKart_Login_Excel_003  - 49 - User not logged in
+2025-06-19 00:53:09,296 - INFO - test_CredKart_Login_Excel_003  - 49 - User not logged in
+2025-06-19 00:53:09,296 - INFO - test_CredKart_Login_Excel_003  - 50 - Writing result to excel file
+2025-06-19 00:53:09,296 - INFO - test_CredKart_Login_Excel_003  - 50 - Writing result to excel file
+2025-06-19 00:53:09,296 - INFO - test_CredKart_Login_Excel_003  - 50 - Writing result to excel file
+2025-06-19 00:53:09,651 - INFO - test_CredKart_Login_Excel_003  - 52 - Taking screenshot
+2025-06-19 00:53:09,651 - INFO - test_CredKart_Login_Excel_003  - 52 - Taking screenshot
+2025-06-19 00:53:09,651 - INFO - test_CredKart_Login_Excel_003  - 52 - Taking screenshot
+2025-06-19 00:53:09,763 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:53:09,763 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:53:09,763 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:53:10,234 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:53:10,234 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:53:10,234 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:53:11,211 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.in
+2025-06-19 00:53:11,211 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.in
+2025-06-19 00:53:11,211 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.in
+2025-06-19 00:53:12,021 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123a
+2025-06-19 00:53:12,021 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123a
+2025-06-19 00:53:12,021 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123a
+2025-06-19 00:53:12,235 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:53:12,235 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:53:12,235 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:53:12,337 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:53:12,337 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:53:12,337 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:53:18,015 - INFO - test_CredKart_Login_Excel_003  - 49 - User not logged in
+2025-06-19 00:53:18,015 - INFO - test_CredKart_Login_Excel_003  - 49 - User not logged in
+2025-06-19 00:53:18,015 - INFO - test_CredKart_Login_Excel_003  - 49 - User not logged in
+2025-06-19 00:53:18,016 - INFO - test_CredKart_Login_Excel_003  - 50 - Writing result to excel file
+2025-06-19 00:53:18,016 - INFO - test_CredKart_Login_Excel_003  - 50 - Writing result to excel file
+2025-06-19 00:53:18,016 - INFO - test_CredKart_Login_Excel_003  - 50 - Writing result to excel file
+2025-06-19 00:53:18,451 - INFO - test_CredKart_Login_Excel_003  - 52 - Taking screenshot
+2025-06-19 00:53:18,451 - INFO - test_CredKart_Login_Excel_003  - 52 - Taking screenshot
+2025-06-19 00:53:18,451 - INFO - test_CredKart_Login_Excel_003  - 52 - Taking screenshot
+2025-06-19 00:53:21,184 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:53:21,184 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:53:21,184 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:53:21,380 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:53:21,380 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:53:21,380 - INFO - test_CredKart_Login_Excel_003  - 25 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-19 00:53:21,854 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.ina
+2025-06-19 00:53:21,854 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.ina
+2025-06-19 00:53:21,854 - INFO - test_CredKart_Login_Excel_003  - 30 - Entering email--credencejune01@credence.ina
+2025-06-19 00:53:22,016 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123a
+2025-06-19 00:53:22,016 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123a
+2025-06-19 00:53:22,016 - INFO - test_CredKart_Login_Excel_003  - 32 - Entering password--Credence@123a
+2025-06-19 00:53:22,150 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:53:22,150 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:53:22,150 - INFO - test_CredKart_Login_Excel_003  - 34 - Clicking on login button
+2025-06-19 00:53:22,254 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:53:22,254 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:53:22,254 - INFO - test_CredKart_Login_Excel_003  - 36 - Verifying user login
+2025-06-19 00:53:26,589 - INFO - test_CredKart_Login_Excel_003  - 49 - User not logged in
+2025-06-19 00:53:26,589 - INFO - test_CredKart_Login_Excel_003  - 49 - User not logged in
+2025-06-19 00:53:26,589 - INFO - test_CredKart_Login_Excel_003  - 49 - User not logged in
+2025-06-19 00:53:26,589 - INFO - test_CredKart_Login_Excel_003  - 50 - Writing result to excel file
+2025-06-19 00:53:26,589 - INFO - test_CredKart_Login_Excel_003  - 50 - Writing result to excel file
+2025-06-19 00:53:26,589 - INFO - test_CredKart_Login_Excel_003  - 50 - Writing result to excel file
+2025-06-19 00:53:26,787 - INFO - test_CredKart_Login_Excel_003  - 52 - Taking screenshot
+2025-06-19 00:53:26,787 - INFO - test_CredKart_Login_Excel_003  - 52 - Taking screenshot
+2025-06-19 00:53:26,787 - INFO - test_CredKart_Login_Excel_003  - 52 - Taking screenshot
+2025-06-19 00:53:27,036 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:53:27,036 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:53:27,036 - INFO - test_CredKart_Login_Excel_003  - 62 - Writing result to excel file
+2025-06-19 00:53:27,276 - INFO - test_CredKart_Login_Excel_003  - 68 - All the test cases passed
+2025-06-19 00:53:27,276 - INFO - test_CredKart_Login_Excel_003  - 68 - All the test cases passed
+2025-06-19 00:53:27,276 - INFO - test_CredKart_Login_Excel_003  - 68 - All the test cases passed
+2025-06-19 00:53:27,277 - INFO - test_CredKart_Login_Excel_003  - 74 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:53:27,277 - INFO - test_CredKart_Login_Excel_003  - 74 - Testcase test_CredKart_Login_Excel_003 is completed
+2025-06-19 00:53:27,277 - INFO - test_CredKart_Login_Excel_003  - 74 - Testcase test_CredKart_Login_Excel_003 is completed
